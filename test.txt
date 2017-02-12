@@ -1,3 +1,5 @@
 Testowy plik kuby
 o jest nowa linijka dodana przez Kube
 Coœ zmieniam, aby sprawdziæ jak to dzia³a
+
+Ostatnia linijka pliku
