@@ -1,1 +1,2 @@
 Testowy plik kuby
+To jest nowa linijka dodana przez Kube
